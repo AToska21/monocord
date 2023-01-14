@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://cdn.discordapp.com/avatars/642259365440520192/a478f3fcadc0841ad3213f413003f794.png?size=1024
   name: MonoSoftware
   introTitle: "**MonoSoftware** Welcome to MonoSoftware! This is a hub for software by the legend, Monomouse himself!"
-  introMessage: **MonoSoftware** This is the status page for MonoSoftware websites!
+  introMessage: "**MonoSoftware** This is the status page for MonoSoftware websites!"
   navbar:
     - title: Status
       href: /
