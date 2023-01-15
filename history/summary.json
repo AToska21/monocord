@@ -4,19 +4,19 @@
     "url": "https://chat.natsuki.live",
     "icon": "https://icons.duckduckgo.com/ip3/chat.natsuki.live.ico",
     "slug": "monocord",
-    "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "97.96%",
-    "time": 492,
-    "timeDay": 492,
-    "timeWeek": 492,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "status": "up",
+    "uptime": "95.46%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "95.46%",
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2023-01-15": 7
+      "2023-01-15": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.natsuki.live.ico",
     "slug": "monogit",
     "status": "down",
-    "uptime": "39.51%",
-    "uptimeDay": "39.51%",
-    "uptimeWeek": "39.51%",
-    "uptimeMonth": "39.51%",
-    "uptimeYear": "39.51%",
+    "uptime": "38.50%",
+    "uptimeDay": "38.50%",
+    "uptimeWeek": "38.50%",
+    "uptimeMonth": "38.50%",
+    "uptimeYear": "38.50%",
     "time": 948,
     "timeDay": 948,
     "timeWeek": 948,
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2023-01-15": 200
+      "2023-01-15": 209
     }
   }
 ]
