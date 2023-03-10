@@ -1,7 +1,7 @@
 url: https://git.natsuki.live
-status: up
-code: 200
-responseTime: 1714
-lastUpdated: 2023-03-09T23:09:51.480Z
+status: down
+code: 503
+responseTime: 587
+lastUpdated: 2023-03-10T11:25:42.637Z
 startTime: Sat Jan 14 2023 23:55:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
